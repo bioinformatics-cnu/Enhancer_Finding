@@ -1,0 +1,16 @@
+Range 1: 1493970 to 1493982GraphicsNext MatchPrevious Match
+Alignment statistics for match #1
+Score	Expect	Identities	Gaps	Strand
+24.7 bits(26)	4.5	13/13(100%)	0/13(0%)	Plus/Minus
+Query  13       AAAGTTAATTTTA  25
+                |||||||||||||
+Sbjct  1493982  AAAGTTAATTTTA  1493970
+
+
+Range 2: 376670 to 376681GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #2
+Score	Expect	Identities	Gaps	Strand
+22.9 bits(24)	16	12/12(100%)	0/12(0%)	Plus/Plus
+Query  54      GGCTTTTTTTAT  65
+               ||||||||||||
+Sbjct  376670  GGCTTTTTTTAT  376681

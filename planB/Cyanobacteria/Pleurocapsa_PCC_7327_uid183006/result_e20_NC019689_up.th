@@ -1,0 +1,10 @@
+NC019689	Range 3	ID=gene123;Name=Ple7327_0124;Note=IMG reference gene:2509572007;Dbxref=GeneID:14106775;gbkey=Gene;locus_tag=Ple7327_0124
+NC019689	Range 5	ID=gene960;Name=Ple7327_0961;Note=IMG reference gene:2509572844;Dbxref=GeneID:14106052;gbkey=Gene;locus_tag=Ple7327_0961
+NC019689	Range 7	ID=gene3407;Name=Ple7327_3412;Note=IMG reference gene:2509575295;Dbxref=GeneID:14108881;gbkey=Gene;locus_tag=Ple7327_3412
+NC019689	Range 8	ID=gene1062;Name=Ple7327_1063;Note=IMG reference gene:2509572946;Dbxref=GeneID:14106130;gbkey=Gene;locus_tag=Ple7327_1063
+NC019689	Range 11	ID=gene3599;Name=Ple7327_3604;Note=IMG reference gene:2509575487;Dbxref=GeneID:14105665;gbkey=Gene;locus_tag=Ple7327_3604
+NC019689	Range 12	ID=gene3600;Name=Ple7327_3605;Note=IMG reference gene:2509575488;Dbxref=GeneID:14105666;gbkey=Gene;locus_tag=Ple7327_3605
+NC019689	Range 13	ID=gene3668;Name=Ple7327_3673;Note=IMG reference gene:2509575556;Dbxref=GeneID:14105716;gbkey=Gene;locus_tag=Ple7327_3673;pseudo=true
+NC019689	Range 15	ID=gene3742;Name=Ple7327_3747;Note=IMG reference gene:2509575630;Dbxref=GeneID:14108968;gbkey=Gene;locus_tag=Ple7327_3747
+NC019689	Range 20	ID=gene569;Name=Ple7327_0570;Note=IMG reference gene:2509572453;Dbxref=GeneID:14107106;gbkey=Gene;locus_tag=Ple7327_0570;pseudo=true
+NC019689	Range 22	ID=gene1652;Name=Ple7327_1655;Note=IMG reference gene:2509573538;Dbxref=GeneID:14106581;gbkey=Gene;locus_tag=Ple7327_1655

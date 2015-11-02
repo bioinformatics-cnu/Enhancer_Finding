@@ -1,0 +1,4 @@
+scaffold5	Range 2	Bacillus.sp.T61GL005458	{NA}	{NA}	{IPR001411; Tetracycline resistance protein TetB/drug resistance transporter  IPR004638; Drug resistance transporter EmrB/QacA subfamily  IPR011701; Major facilitator superfamily  IPR016196; Major facilitator superfamily domain, general substrate transporter  IPR020846; Major facilitator superfamily domain}	{GO:0006810; transport; Biological Process  GO:0016021; integral to membrane; Cellular Component  GO:0055085; transmembrane transport; Biological Process}
+scaffold5	Range 3	inside	inside gene
+scaffold5	Range 1	Bacillus.sp.T61GL005455	{NA}	{DINB_BACSU Protein dinB OS=Bacillus subtilis (strain 168) GN=dinB PE=3 SV=2}	{IPR007837; DNA damage-inducible protein DinB}	{NA}
+scaffold5	Range 4	inside	inside gene

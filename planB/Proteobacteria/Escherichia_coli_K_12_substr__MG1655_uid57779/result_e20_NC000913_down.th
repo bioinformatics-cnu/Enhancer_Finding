@@ -1,0 +1,12 @@
+NC000913	Range 1	ID=gene3177;Name=tdcA;Dbxref=EcoGene:EG10989,GeneID:947494;gbkey=Gene;gene=tdcA;gene_synonym=ECK3107,JW3089;locus_tag=b3118
+NC000913	Range 3	ID=gene690;Name=glnS;Dbxref=EcoGene:EG10390,GeneID:945310;gbkey=Gene;gene=glnS;gene_synonym=ECK0668,JW0666;locus_tag=b0680
+NC000913	Range 4	ID=gene1204;Name=fadR;Dbxref=EcoGene:EG10281,GeneID:948652;gbkey=Gene;gene=fadR;gene_synonym=dec,ECK1175,JW1176,ole,oleR,thdB;locus_tag=b1187
+NC000913	Range 7	ID=gene1674;Name=gstA;Dbxref=EcoGene:EG12613,GeneID:945758;gbkey=Gene;gene=gstA;gene_synonym=ECK1631,gst,JW1627;locus_tag=b1635
+NC000913	Range 13	ID=gene718;Name=ybfL;Dbxref=EcoGene:EG13417,GeneID:947075;gbkey=Gene;gene=ybfL;gene_synonym=ECK0694,JW0695;locus_tag=b0705;pseudo=true
+NC000913	Range 14	ID=gene1902;Name=lpxM;Dbxref=EcoGene:EG10614,GeneID:945143;gbkey=Gene;gene=lpxM;gene_synonym=ECK1856,JW1844,mlt,msbB,waaN;locus_tag=b1855
+NC000913	Range 15	ID=gene2579;Name=ndk;Dbxref=EcoGene:EG10650,GeneID:945611;gbkey=Gene;gene=ndk;gene_synonym=ECK2514,JW2502;locus_tag=b2518
+NC000913	Range 18	ID=gene3227;Name=rbfA;Dbxref=EcoGene:EG11178,GeneID:947685;gbkey=Gene;gene=rbfA;gene_synonym=ECK3156,JW3136,sdr-43,yhbB;locus_tag=b3167
+NC000913	Range 19	ID=gene3545;Name=yhhI;Dbxref=EcoGene:EG11525,GeneID:947992;gbkey=Gene;gene=yhhI;gene_synonym=ECK3469,JW3451;locus_tag=b3484
+NC000913	Range 20	ID=id492;Parent=rna131;Note=pseudogene%2C sRNA antisense regulator blocking mokA%2FhokA translation;Dbxref=EcoGene:EG31176,GeneID:5061523;gbkey=ncRNA;gene=sokA;ncrna_class=other;pseudo=true
+NC000913	Range 21	ID=gene3940;Name=yihF;Dbxref=EcoGene:EG11832,GeneID:948352;gbkey=Gene;gene=yihF;gene_synonym=ECK3853,JW5574;locus_tag=b3861
+NC000913	Range 22	ID=gene4297;Name=fklB;Dbxref=EcoGene:EG12503,GeneID:948726;gbkey=Gene;gene=fklB;gene_synonym=ECK4203,JW5746,ytfC;locus_tag=b4207

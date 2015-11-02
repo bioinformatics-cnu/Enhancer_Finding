@@ -1,0 +1,7 @@
+Range 1: 113034 to 113046GraphicsNext MatchPrevious Match
+Alignment statistics for match #1
+Score	Expect	Identities	Gaps	Strand
+24.7 bits(26)	11	13/13(100%)	0/13(0%)	Plus/Plus
+Query  19      AATTTTAAAAAAC  31
+               |||||||||||||
+Sbjct  113034  AATTTTAAAAAAC  113046

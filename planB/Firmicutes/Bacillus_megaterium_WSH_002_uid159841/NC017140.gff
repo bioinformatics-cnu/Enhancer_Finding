@@ -1,0 +1,11 @@
+ID=gene0;Name=BMWSH_p201;Dbxref=GeneID:11990076;gbkey=Gene;locus_tag=BMWSH_p201	94	435
+ID=gene1;Name=BMWSH_p202;Dbxref=GeneID:11990077;gbkey=Gene;locus_tag=BMWSH_p202	1495	2175
+ID=gene2;Name=rep14-3;Dbxref=GeneID:11990078;gbkey=Gene;gene=rep14-3;locus_tag=BMWSH_p203	2543	2914
+ID=gene3;Name=BMWSH_p204;Dbxref=GeneID:11990079;gbkey=Gene;locus_tag=BMWSH_p204	2917	3135
+ID=gene4;Name=BMWSH_p205;Dbxref=GeneID:11990080;gbkey=Gene;locus_tag=BMWSH_p205	3308	3724
+ID=gene5;Name=BMWSH_p206;Dbxref=GeneID:11990081;gbkey=Gene;locus_tag=BMWSH_p206	3758	4051
+ID=gene6;Name=BMWSH_p207;Dbxref=GeneID:11990082;gbkey=Gene;locus_tag=BMWSH_p207	4428	6410
+ID=gene7;Name=BMWSH_p208;Dbxref=GeneID:11990083;gbkey=Gene;locus_tag=BMWSH_p208	6543	7184
+ID=gene8;Name=BMWSH_p209;Dbxref=GeneID:11990084;gbkey=Gene;locus_tag=BMWSH_p209	7181	7528
+ID=gene9;Name=BMWSH_p210;Dbxref=GeneID:11990085;gbkey=Gene;locus_tag=BMWSH_p210	7629	8342
+ID=gene10;Name=alp;Dbxref=GeneID:11990086;gbkey=Gene;gene=alp;locus_tag=BMWSH_p211	8561	9673

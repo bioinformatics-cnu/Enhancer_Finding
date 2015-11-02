@@ -1,0 +1,35 @@
+##gff-version 3
+#!gff-spec-version 1.20
+#!processor NCBI annotwriter
+##sequence-region NC_017141.1 1 7006
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1006007
+NC_017141.1	RefSeq	region	1	7006	.	+	.	ID=id0;Dbxref=taxon:1006007;Is_circular=true;gbkey=Src;genome=plasmid;mol_type=genomic DNA;plasmid-name=WSH-002_p3;strain=WSH-002
+NC_017141.1	RefSeq	gene	904	1029	.	-	.	ID=gene0;Name=BMWSH_p301;Dbxref=GeneID:11990091;gbkey=Gene;locus_tag=BMWSH_p301
+NC_017141.1	RefSeq	CDS	904	1029	.	-	0	ID=cds0;Name=YP_005497454.1;Parent=gene0;Dbxref=Genbank:YP_005497454.1,GeneID:11990091;gbkey=CDS;product=hypothetical protein;protein_id=YP_005497454.1;transl_table=11
+NC_017141.1	RefSeq	gene	1199	1432	.	+	.	ID=gene1;Name=BMWSH_p302;Dbxref=GeneID:11990092;gbkey=Gene;locus_tag=BMWSH_p302
+NC_017141.1	RefSeq	CDS	1199	1432	.	+	0	ID=cds1;Name=YP_005497455.1;Parent=gene1;Dbxref=Genbank:YP_005497455.1,GeneID:11990092;gbkey=CDS;product=hypothetical protein;protein_id=YP_005497455.1;transl_table=11
+NC_017141.1	RefSeq	gene	1454	1621	.	-	.	ID=gene2;Name=BMWSH_p303;Dbxref=GeneID:11990093;gbkey=Gene;locus_tag=BMWSH_p303
+NC_017141.1	RefSeq	CDS	1454	1621	.	-	0	ID=cds2;Name=YP_005497456.1;Parent=gene2;Dbxref=Genbank:YP_005497456.1,GeneID:11990093;gbkey=CDS;product=hypothetical protein;protein_id=YP_005497456.1;transl_table=11
+NC_017141.1	RefSeq	gene	2023	2145	.	-	.	ID=gene3;Name=BMWSH_p304;Dbxref=GeneID:11990094;gbkey=Gene;locus_tag=BMWSH_p304
+NC_017141.1	RefSeq	CDS	2023	2145	.	-	0	ID=cds3;Name=YP_005497457.1;Parent=gene3;Dbxref=Genbank:YP_005497457.1,GeneID:11990094;gbkey=CDS;product=hypothetical protein;protein_id=YP_005497457.1;transl_table=11
+NC_017141.1	RefSeq	gene	2132	2437	.	-	.	ID=gene4;Name=BMWSH_p305;Dbxref=GeneID:11990095;gbkey=Gene;locus_tag=BMWSH_p305
+NC_017141.1	RefSeq	CDS	2132	2437	.	-	0	ID=cds4;Name=YP_005497458.1;Parent=gene4;Dbxref=Genbank:YP_005497458.1,GeneID:11990095;gbkey=CDS;product=toxin-antitoxin system%2C antitoxin component%2C HicB family protein;protein_id=YP_005497458.1;transl_table=11
+NC_017141.1	RefSeq	gene	2528	2848	.	-	.	ID=gene5;Name=BMWSH_p306;Dbxref=GeneID:11990096;gbkey=Gene;locus_tag=BMWSH_p306
+NC_017141.1	RefSeq	CDS	2528	2848	.	-	0	ID=cds5;Name=YP_005497459.1;Parent=gene5;Dbxref=Genbank:YP_005497459.1,GeneID:11990096;gbkey=CDS;product=hypothetical protein;protein_id=YP_005497459.1;transl_table=11
+NC_017141.1	RefSeq	gene	2950	3264	.	-	.	ID=gene6;Name=BMWSH_p307;Dbxref=GeneID:11990097;gbkey=Gene;locus_tag=BMWSH_p307
+NC_017141.1	RefSeq	CDS	2950	3264	.	-	0	ID=cds6;Name=YP_005497460.1;Parent=gene6;Dbxref=Genbank:YP_005497460.1,GeneID:11990097;gbkey=CDS;product=hypothetical protein;protein_id=YP_005497460.1;transl_table=11
+NC_017141.1	RefSeq	gene	3320	3736	.	-	.	ID=gene7;Name=BMWSH_p308;Dbxref=GeneID:11990098;gbkey=Gene;locus_tag=BMWSH_p308
+NC_017141.1	RefSeq	CDS	3320	3736	.	-	0	ID=cds7;Name=YP_005497461.1;Parent=gene7;Dbxref=Genbank:YP_005497461.1,GeneID:11990098;gbkey=CDS;product=hypothetical protein;protein_id=YP_005497461.1;transl_table=11
+NC_017141.1	RefSeq	gene	3739	4704	.	-	.	ID=gene8;Name=BMWSH_p309;Dbxref=GeneID:11990099;gbkey=Gene;locus_tag=BMWSH_p309
+NC_017141.1	RefSeq	CDS	3739	4704	.	-	0	ID=cds8;Name=YP_005497462.1;Parent=gene8;Dbxref=Genbank:YP_005497462.1,GeneID:11990099;gbkey=CDS;product=hypothetical protein;protein_id=YP_005497462.1;transl_table=11
+NC_017141.1	RefSeq	gene	4688	4861	.	-	.	ID=gene9;Name=BMWSH_p310;Dbxref=GeneID:11990100;gbkey=Gene;locus_tag=BMWSH_p310
+NC_017141.1	RefSeq	CDS	4688	4861	.	-	0	ID=cds9;Name=YP_005497463.1;Parent=gene9;Dbxref=Genbank:YP_005497463.1,GeneID:11990100;gbkey=CDS;product=hypothetical protein;protein_id=YP_005497463.1;transl_table=11
+NC_017141.1	RefSeq	gene	4903	5082	.	+	.	ID=gene10;Name=BMWSH_p311;Dbxref=GeneID:11990101;gbkey=Gene;locus_tag=BMWSH_p311
+NC_017141.1	RefSeq	CDS	4903	5082	.	+	0	ID=cds10;Name=YP_005497464.1;Parent=gene10;Dbxref=Genbank:YP_005497464.1,GeneID:11990101;gbkey=CDS;product=hypothetical protein;protein_id=YP_005497464.1;transl_table=11
+NC_017141.1	RefSeq	gene	5092	5262	.	-	.	ID=gene11;Name=BMWSH_p312;Dbxref=GeneID:11990088;gbkey=Gene;locus_tag=BMWSH_p312
+NC_017141.1	RefSeq	CDS	5092	5262	.	-	0	ID=cds11;Name=YP_005497465.1;Parent=gene11;Dbxref=Genbank:YP_005497465.1,GeneID:11990088;gbkey=CDS;product=hypothetical protein;protein_id=YP_005497465.1;transl_table=11
+NC_017141.1	RefSeq	gene	5297	5896	.	-	.	ID=gene12;Name=BMWSH_p313;Dbxref=GeneID:11990089;gbkey=Gene;locus_tag=BMWSH_p313
+NC_017141.1	RefSeq	CDS	5297	5896	.	-	0	ID=cds12;Name=YP_005497466.1;Parent=gene12;Dbxref=Genbank:YP_005497466.1,GeneID:11990089;gbkey=CDS;product=hypothetical protein;protein_id=YP_005497466.1;transl_table=11
+NC_017141.1	RefSeq	gene	6159	6917	.	-	.	ID=gene13;Name=BMWSH_p314;Dbxref=GeneID:11990090;gbkey=Gene;locus_tag=BMWSH_p314
+NC_017141.1	RefSeq	CDS	6159	6917	.	-	0	ID=cds13;Name=YP_005497467.1;Parent=gene13;Dbxref=Genbank:YP_005497467.1,GeneID:11990090;gbkey=CDS;product=Rep protein;protein_id=YP_005497467.1;transl_table=11
+###

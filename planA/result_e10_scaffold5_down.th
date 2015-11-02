@@ -1,0 +1,4 @@
+scaffold5	Range 2	Bacillus.sp.T61GL005459	{K02004  ABC.CD.P  --  --  Environmental Information Processing; Membrane Transport; Transporters [BR:ko02000]}	{NA}	{IPR003838; Permease FtsX-like}	{GO:0016020; membrane; Cellular Component}
+scaffold5	Range 3	inside	inside gene
+scaffold5	Range 1	Bacillus.sp.T61GL005454	{NA}	{NA}	{NA}	{NA}
+scaffold5	Range 4	inside	inside gene

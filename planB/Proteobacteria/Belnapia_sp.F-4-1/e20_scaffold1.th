@@ -1,0 +1,7 @@
+Range 1: 2837710 to 2837723GraphicsNext MatchPrevious Match
+Alignment statistics for match #1
+Score	Expect	Identities	Gaps	Strand
+26.5 bits(28)	3.3	14/14(100%)	0/14(0%)	Plus/Minus
+Query  53       CGGCTTTTTTTATG  66
+                ||||||||||||||
+Sbjct  2837723  CGGCTTTTTTTATG  2837710

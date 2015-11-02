@@ -1,0 +1,214 @@
+Range 1: 8991 to 9005GraphicsNext MatchPrevious Match
+Alignment statistics for match #1
+Score	Expect	Identities	Gaps	Strand
+28.3 bits(30)	0.014	15/15(100%)	0/15(0%)	Plus/Minus
+Query  66    GTTTAAATAGAAAAA  80
+             |||||||||||||||
+Sbjct  9005  GTTTAAATAGAAAAA  8991
+
+
+Range 2: 14222 to 14237GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #2
+Score	Expect	Identities	Gaps	Strand
+24.7 bits(26)	0.17	15/16(94%)	0/16(0%)	Plus/Minus
+Query  15     AGTTAATTTTAAAAAA  30
+              ||||||||||| ||||
+Sbjct  14237  AGTTAATTTTAGAAAA  14222
+
+
+Range 3: 33651 to 33663GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #3
+Score	Expect	Identities	Gaps	Strand
+24.7 bits(26)	0.17	13/13(100%)	0/13(0%)	Plus/Minus
+Query  33     GTAAAAAGATTCT  45
+              |||||||||||||
+Sbjct  33663  GTAAAAAGATTCT  33651
+
+
+Range 4: 6821 to 6832GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #4
+Score	Expect	Identities	Gaps	Strand
+22.9 bits(24)	0.60	12/12(100%)	0/12(0%)	Plus/Minus
+Query  57    TTTTTTTATGTT  68
+             ||||||||||||
+Sbjct  6832  TTTTTTTATGTT  6821
+
+
+Range 5: 7334 to 7345GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #5
+Score	Expect	Identities	Gaps	Strand
+22.9 bits(24)	0.60	12/12(100%)	0/12(0%)	Plus/Plus
+Query  25    AAAAAACTGTAA  36
+             ||||||||||||
+Sbjct  7334  AAAAAACTGTAA  7345
+
+
+Range 6: 7470 to 7486GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #6
+Score	Expect	Identities	Gaps	Strand
+22.9 bits(24)	0.60	15/17(88%)	0/17(0%)	Plus/Minus
+Query  35    AAAAAGATTCTATTGTT  51
+             || || |||||||||||
+Sbjct  7486  AATAAAATTCTATTGTT  7470
+
+
+Range 7: 15443 to 15454GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #7
+Score	Expect	Identities	Gaps	Strand
+22.9 bits(24)	0.60	12/12(100%)	0/12(0%)	Plus/Minus
+Query  67     TTTAAATAGAAA  78
+              ||||||||||||
+Sbjct  15454  TTTAAATAGAAA  15443
+
+
+Range 8: 15601 to 15612GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #8
+Score	Expect	Identities	Gaps	Strand
+22.9 bits(24)	0.60	12/12(100%)	0/12(0%)	Plus/Plus
+Query  54     GGCTTTTTTTAT  65
+              ||||||||||||
+Sbjct  15601  GGCTTTTTTTAT  15612
+
+
+Range 9: 34717 to 34728GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #9
+Score	Expect	Identities	Gaps	Strand
+22.9 bits(24)	0.60	12/12(100%)	0/12(0%)	Plus/Minus
+Query  31     CTGTAAAAAGAT  42
+              ||||||||||||
+Sbjct  34728  CTGTAAAAAGAT  34717
+
+
+Range 10: 37581 to 37592GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #10
+Score	Expect	Identities	Gaps	Strand
+22.9 bits(24)	0.60	12/12(100%)	0/12(0%)	Plus/Minus
+Query  55     GCTTTTTTTATG  66
+              ||||||||||||
+Sbjct  37592  GCTTTTTTTATG  37581
+
+
+Range 11: 42105 to 42116GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #11
+Score	Expect	Identities	Gaps	Strand
+22.9 bits(24)	0.60	12/12(100%)	0/12(0%)	Plus/Plus
+Query  58     TTTTTTATGTTT  69
+              ||||||||||||
+Sbjct  42105  TTTTTTATGTTT  42116
+
+
+Range 12: 44605 to 44624GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #12
+Score	Expect	Identities	Gaps	Strand
+22.9 bits(24)	0.60	17/20(85%)	0/20(0%)	Plus/Minus
+Query  20     ATTTTAAAAAACTGTAAAAA  39
+              ||||||||||||   |||||
+Sbjct  44624  ATTTTAAAAAACAACAAAAA  44605
+
+
+Range 13: 44761 to 44772GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #13
+Score	Expect	Identities	Gaps	Strand
+22.9 bits(24)	0.60	12/12(100%)	0/12(0%)	Plus/Minus
+Query  58     TTTTTTATGTTT  69
+              ||||||||||||
+Sbjct  44772  TTTTTTATGTTT  44761
+
+
+Range 14: 66448 to 66464GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #14
+Score	Expect	Identities	Gaps	Strand
+22.9 bits(24)	0.60	16/17(94%)	1/17(5%)	Plus/Minus
+Query  14     AAGT-TAATTTTAAAAA  29
+              |||| ||||||||||||
+Sbjct  66464  AAGTATAATTTTAAAAA  66448
+
+
+Range 15: 7484 to 7494GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #15
+Score	Expect	Identities	Gaps	Strand
+21.1 bits(22)	2.1	11/11(100%)	0/11(0%)	Plus/Plus
+Query  41    ATTCTATTGTT  51
+             |||||||||||
+Sbjct  7484  ATTCTATTGTT  7494
+
+
+Range 16: 12582 to 12592GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #16
+Score	Expect	Identities	Gaps	Strand
+21.1 bits(22)	2.1	11/11(100%)	0/11(0%)	Plus/Minus
+Query  60     TTTTATGTTTA  70
+              |||||||||||
+Sbjct  12592  TTTTATGTTTA  12582
+
+
+Range 17: 14167 to 14182GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #17
+Score	Expect	Identities	Gaps	Strand
+21.1 bits(22)	2.1	15/16(94%)	1/16(6%)	Plus/Plus
+Query  15     AGTTAA-TTTTAAAAA  29
+              |||||| |||||||||
+Sbjct  14167  AGTTAAATTTTAAAAA  14182
+
+
+Range 18: 14739 to 14749GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #18
+Score	Expect	Identities	Gaps	Strand
+21.1 bits(22)	2.1	11/11(100%)	0/11(0%)	Plus/Plus
+Query  11     GCAAAGTTAAT  21
+              |||||||||||
+Sbjct  14739  GCAAAGTTAAT  14749
+
+
+Range 19: 18366 to 18376GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #19
+Score	Expect	Identities	Gaps	Strand
+21.1 bits(22)	2.1	11/11(100%)	0/11(0%)	Plus/Plus
+Query  16     GTTAATTTTAA  26
+              |||||||||||
+Sbjct  18366  GTTAATTTTAA  18376
+
+
+Range 20: 30818 to 30828GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #20
+Score	Expect	Identities	Gaps	Strand
+21.1 bits(22)	2.1	11/11(100%)	0/11(0%)	Plus/Plus
+Query  20     ATTTTAAAAAA  30
+              |||||||||||
+Sbjct  30818  ATTTTAAAAAA  30828
+
+
+Range 21: 36156 to 36166GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #21
+Score	Expect	Identities	Gaps	Strand
+21.1 bits(22)	2.1	11/11(100%)	0/11(0%)	Plus/Plus
+Query  56     CTTTTTTTATG  66
+              |||||||||||
+Sbjct  36156  CTTTTTTTATG  36166
+
+
+Range 22: 46690 to 46700GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #22
+Score	Expect	Identities	Gaps	Strand
+21.1 bits(22)	2.1	11/11(100%)	0/11(0%)	Plus/Minus
+Query  55     GCTTTTTTTAT  65
+              |||||||||||
+Sbjct  46700  GCTTTTTTTAT  46690
+
+
+Range 23: 48704 to 48714GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #23
+Score	Expect	Identities	Gaps	Strand
+21.1 bits(22)	2.1	11/11(100%)	0/11(0%)	Plus/Plus
+Query  8      AAAGCAAAGTT  18
+              |||||||||||
+Sbjct  48704  AAAGCAAAGTT  48714
+
+
+Range 24: 69565 to 69575GraphicsNext MatchPrevious MatchFirst Match
+Alignment statistics for match #24
+Score	Expect	Identities	Gaps	Strand
+21.1 bits(22)	2.1	11/11(100%)	0/11(0%)	Plus/Plus
+Query  20     ATTTTAAAAAA  30
+              |||||||||||
+Sbjct  69565  ATTTTAAAAAA  69575

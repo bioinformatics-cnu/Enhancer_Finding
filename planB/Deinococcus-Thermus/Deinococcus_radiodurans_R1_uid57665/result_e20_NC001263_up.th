@@ -1,0 +1,6 @@
+NC001263	Range 3	ID=gene1783;Name=DR_t27;Dbxref=GeneID:1799529;gbkey=Gene;locus_tag=DR_t27
+NC001263	Range 4	ID=gene1870;Name=DR_1839;Dbxref=GeneID:1798800;gbkey=Gene;locus_tag=DR_1839
+NC001263	Range 5	ID=gene1945;Name=DR_1914;Dbxref=GeneID:1797565;gbkey=Gene;locus_tag=DR_1914
+NC001263	Range 7	ID=gene625;Name=groEL;Dbxref=GeneID:1798289;gbkey=Gene;gene=groEL;locus_tag=DR_0607
+NC001263	Range 8	ID=gene1175;Name=DR_1149;Dbxref=GeneID:1797469;gbkey=Gene;locus_tag=DR_1149
+NC001263	Range 10	ID=gene1921;Name=DR_1890;Dbxref=GeneID:1797554;gbkey=Gene;locus_tag=DR_1890

@@ -1,0 +1,90 @@
+##gff-version 3
+#!gff-spec-version 1.20
+#!processor NCBI annotwriter
+##sequence-region NC_000959.1 1 45704
+##species http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=243230
+NC_000959.1	RefSeq	region	1	45704	.	+	.	ID=id0;Name=CP1;Dbxref=taxon:243230;Is_circular=true;gbkey=Src;genome=plasmid;mol_type=genomic DNA;old-name=Deinococcus radiodurans;plasmid-name=CP1;strain=R1
+NC_000959.1	RefSeq	gene	73	384	.	+	.	ID=gene0;Name=DR_C0001;Dbxref=GeneID:1799891;gbkey=Gene;locus_tag=DR_C0001
+NC_000959.1	RefSeq	CDS	73	384	.	+	0	ID=cds0;Name=NP_051675.1;Parent=gene0;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051675.1,GeneID:1799891;gbkey=CDS;product=cytochrome P450-related protein;protein_id=NP_051675.1;transl_table=11
+NC_000959.1	RefSeq	gene	725	1951	.	+	.	ID=gene1;Name=DR_C0002;Dbxref=GeneID:1799920;gbkey=Gene;locus_tag=DR_C0002
+NC_000959.1	RefSeq	CDS	725	1951	.	+	0	ID=cds1;Name=NP_051676.1;Parent=gene1;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051676.1,GeneID:1799920;gbkey=CDS;product=phosphoenolpyruvate synthase-related protein;protein_id=NP_051676.1;transl_table=11
+NC_000959.1	RefSeq	gene	1938	2801	.	+	.	ID=gene2;Name=DR_C0003;Dbxref=GeneID:1799906;gbkey=Gene;locus_tag=DR_C0003
+NC_000959.1	RefSeq	CDS	1938	2801	.	+	0	ID=cds2;Name=NP_051677.1;Parent=gene2;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051677.1,GeneID:1799906;gbkey=CDS;product=phosphoenolpyruvate synthase-related protein;protein_id=NP_051677.1;transl_table=11
+NC_000959.1	RefSeq	region	2992	4059	.	+	.	ID=id1;Dbxref=ISFinder:ISDra3;gbkey=mobile_element
+NC_000959.1	RefSeq	gene	3325	3520	.	+	.	ID=gene3;Name=DR_C0004;Dbxref=GeneID:1799914;gbkey=Gene;locus_tag=DR_C0004
+NC_000959.1	RefSeq	CDS	3325	3348	.	+	0	ID=cds3;Name=NP_277099.1;Parent=gene3;Dbxref=Genbank:NP_277099.1,GeneID:1799914;exception=artificial frameshift;gbkey=CDS;product=putative transposase;protein_id=NP_277099.1;transl_table=11
+NC_000959.1	RefSeq	CDS	3350	3520	.	+	0	ID=cds3;Name=NP_277099.1;Parent=gene3;Dbxref=Genbank:NP_277099.1,GeneID:1799914;exception=artificial frameshift;gbkey=CDS;product=putative transposase;protein_id=NP_277099.1;transl_table=11
+NC_000959.1	RefSeq	gene	4763	5320	.	-	.	ID=gene4;Name=DR_C0005;Dbxref=GeneID:1799921;gbkey=Gene;locus_tag=DR_C0005
+NC_000959.1	RefSeq	CDS	4763	5320	.	-	0	ID=cds4;Name=NP_051678.1;Parent=gene4;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051678.1,GeneID:1799921;gbkey=CDS;product=resolvase;protein_id=NP_051678.1;transl_table=11
+NC_000959.1	RefSeq	gene	5471	6205	.	-	.	ID=gene5;Name=DR_C0006;Dbxref=GeneID:1799889;gbkey=Gene;locus_tag=DR_C0006
+NC_000959.1	RefSeq	CDS	5471	6205	.	-	0	ID=cds5;Name=NP_051679.1;Parent=gene5;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051679.1,GeneID:1799889;gbkey=CDS;product=hypothetical protein;protein_id=NP_051679.1;transl_table=11
+NC_000959.1	RefSeq	gene	6202	7473	.	-	.	ID=gene6;Name=DR_C0007;Dbxref=GeneID:1799894;gbkey=Gene;locus_tag=DR_C0007
+NC_000959.1	RefSeq	CDS	6202	7473	.	-	0	ID=cds6;Name=NP_051680.1;Parent=gene6;Dbxref=Genbank:NP_051680.1,GeneID:1799894;gbkey=CDS;product=hypothetical protein;protein_id=NP_051680.1;transl_table=11
+NC_000959.1	RefSeq	gene	7470	8057	.	-	.	ID=gene7;Name=DR_C0008;Dbxref=GeneID:1799905;gbkey=Gene;locus_tag=DR_C0008
+NC_000959.1	RefSeq	CDS	7470	8057	.	-	0	ID=cds7;Name=NP_051681.1;Parent=gene7;Dbxref=Genbank:NP_051681.1,GeneID:1799905;gbkey=CDS;product=hypothetical protein;protein_id=NP_051681.1;transl_table=11
+NC_000959.1	RefSeq	gene	8308	10218	.	-	.	ID=gene8;Name=DR_C0009;Dbxref=GeneID:1799898;gbkey=Gene;locus_tag=DR_C0009
+NC_000959.1	RefSeq	CDS	8308	10218	.	-	0	ID=cds8;Name=NP_051682.1;Parent=gene8;Dbxref=Genbank:NP_051682.1,GeneID:1799898;gbkey=CDS;product=hypothetical protein;protein_id=NP_051682.1;transl_table=11
+NC_000959.1	RefSeq	gene	10441	10998	.	-	.	ID=gene9;Name=DR_C0010;Dbxref=GeneID:1799924;gbkey=Gene;locus_tag=DR_C0010
+NC_000959.1	RefSeq	CDS	10441	10998	.	-	0	ID=cds9;Name=NP_051683.1;Parent=gene9;Note=identified by sequence similarity%3B putative;Dbxref=REBASE:DraRORFC10P,Genbank:NP_051683.1,GeneID:1799924;gbkey=CDS;product=hypothetical protein;protein_id=NP_051683.1;transl_table=11
+NC_000959.1	RefSeq	gene	11512	12403	.	-	.	ID=gene10;Name=DR_C0011;Note=This region contains a pseudogene%2C one or more premature stops%2C and is not the result of a sequencing artifact%3B similar to PID:1162996 percent identity: 52.81%3B identified by sequence similarity%3B putative%3Btransposase%2C pseudogene;Dbxref=GeneID:1799910;gbkey=Gene;locus_tag=DR_C0011
+NC_000959.1	RefSeq	gene	12794	13333	.	+	.	ID=gene11;Name=DR_C0012;Dbxref=GeneID:1799923;gbkey=Gene;locus_tag=DR_C0012
+NC_000959.1	RefSeq	CDS	12794	13333	.	+	0	ID=cds10;Name=NP_051684.1;Parent=gene11;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051684.1,GeneID:1799923;gbkey=CDS;product=GerE family transcriptional regulator;protein_id=NP_051684.1;transl_table=11
+NC_000959.1	RefSeq	gene	13519	14157	.	+	.	ID=gene12;Name=DR_C0013;Dbxref=GeneID:1799902;gbkey=Gene;locus_tag=DR_C0013
+NC_000959.1	RefSeq	CDS	13519	14157	.	+	0	ID=cds11;Name=NP_051685.1;Parent=gene12;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051685.1,GeneID:1799902;gbkey=CDS;product=N-acetylmuramoyl-L-alanine amidase%2C putative;protein_id=NP_051685.1;transl_table=11
+NC_000959.1	RefSeq	gene	14198	14701	.	-	.	ID=gene13;Name=DR_C0014;Dbxref=GeneID:1799912;gbkey=Gene;locus_tag=DR_C0014
+NC_000959.1	RefSeq	CDS	14198	14701	.	-	0	ID=cds12;Name=NP_051686.1;Parent=gene13;Dbxref=Genbank:NP_051686.1,GeneID:1799912;gbkey=CDS;product=hypothetical protein;protein_id=NP_051686.1;transl_table=11
+NC_000959.1	RefSeq	gene	14863	16107	.	+	.	ID=gene14;Name=DR_C0015;Dbxref=GeneID:1799895;gbkey=Gene;locus_tag=DR_C0015
+NC_000959.1	RefSeq	CDS	14863	16107	.	+	0	ID=cds13;Name=NP_051687.1;Parent=gene14;Dbxref=Genbank:NP_051687.1,GeneID:1799895;gbkey=CDS;product=hypothetical protein;protein_id=NP_051687.1;transl_table=11
+NC_000959.1	RefSeq	gene	16040	16852	.	-	.	ID=gene15;Name=DR_C0016;Dbxref=GeneID:1799904;gbkey=Gene;locus_tag=DR_C0016
+NC_000959.1	RefSeq	CDS	16040	16852	.	-	0	ID=cds14;Name=NP_051688.1;Parent=gene15;Dbxref=Genbank:NP_051688.1,GeneID:1799904;gbkey=CDS;product=hypothetical protein;protein_id=NP_051688.1;transl_table=11
+NC_000959.1	RefSeq	gene	17629	20115	.	+	.	ID=gene16;Name=DR_C0017;Dbxref=GeneID:1799897;gbkey=Gene;locus_tag=DR_C0017
+NC_000959.1	RefSeq	CDS	17629	20115	.	+	0	ID=cds15;Name=NP_277100.1;Parent=gene16;Dbxref=Genbank:NP_277100.1,GeneID:1799897;gbkey=CDS;product=putative transposase;protein_id=NP_277100.1;transl_table=11
+NC_000959.1	RefSeq	gene	20112	20822	.	+	.	ID=gene17;Name=DR_C0018;Dbxref=GeneID:1799925;gbkey=Gene;locus_tag=DR_C0018
+NC_000959.1	RefSeq	CDS	20112	20822	.	+	0	ID=cds16;Name=NP_051689.1;Parent=gene17;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051689.1,GeneID:1799925;gbkey=CDS;product=integrase%2Frecombinase XerD%2C putative;protein_id=NP_051689.1;transl_table=11
+NC_000959.1	RefSeq	gene	20836	21270	.	-	.	ID=gene18;Name=DR_C0019;Dbxref=GeneID:1799916;gbkey=Gene;locus_tag=DR_C0019
+NC_000959.1	RefSeq	CDS	20836	21270	.	-	0	ID=cds17;Name=NP_051690.1;Parent=gene18;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051690.1,GeneID:1799916;gbkey=CDS;product=transposase-related;protein_id=NP_051690.1;transl_table=11
+NC_000959.1	RefSeq	gene	21579	22882	.	+	.	ID=gene19;Name=DR_C0020;Note=This region contains an authentic frame shift and is not the result of a sequencing artifact;Dbxref=GeneID:1799900;gbkey=Gene;locus_tag=DR_C0020
+NC_000959.1	RefSeq	CDS	21579	22070	.	+	0	ID=cds18;Name=NP_277101.1;Parent=gene19;Dbxref=Genbank:NP_277101.1,GeneID:1799900;exception=artificial frameshift;gbkey=CDS;product=modification methylase%2C putative;protein_id=NP_277101.1;transl_table=11
+NC_000959.1	RefSeq	CDS	22070	22882	.	+	0	ID=cds18;Name=NP_277101.1;Parent=gene19;Dbxref=Genbank:NP_277101.1,GeneID:1799900;exception=artificial frameshift;gbkey=CDS;product=modification methylase%2C putative;protein_id=NP_277101.1;transl_table=11
+NC_000959.1	RefSeq	gene	22901	23269	.	-	.	ID=gene20;Name=DR_C0021;Dbxref=GeneID:1799903;gbkey=Gene;locus_tag=DR_C0021
+NC_000959.1	RefSeq	CDS	22901	23269	.	-	0	ID=cds19;Name=NP_051691.1;Parent=gene20;Dbxref=Genbank:NP_051691.1,GeneID:1799903;gbkey=CDS;product=hypothetical protein;protein_id=NP_051691.1;transl_table=11
+NC_000959.1	RefSeq	gene	23296	23892	.	-	.	ID=gene21;Name=DR_C0022;Dbxref=GeneID:1799893;gbkey=Gene;locus_tag=DR_C0022
+NC_000959.1	RefSeq	CDS	23296	23892	.	-	0	ID=cds20;Name=NP_051692.1;Parent=gene21;Dbxref=Genbank:NP_051692.1,GeneID:1799893;gbkey=CDS;product=hypothetical protein;protein_id=NP_051692.1;transl_table=11
+NC_000959.1	RefSeq	gene	24950	25609	.	+	.	ID=gene22;Name=DR_C0023;Dbxref=GeneID:1799899;gbkey=Gene;locus_tag=DR_C0023
+NC_000959.1	RefSeq	CDS	24950	25609	.	+	0	ID=cds21;Name=NP_051693.1;Parent=gene22;Dbxref=Genbank:NP_051693.1,GeneID:1799899;gbkey=CDS;product=hypothetical protein;protein_id=NP_051693.1;transl_table=11
+NC_000959.1	RefSeq	gene	25981	26553	.	-	.	ID=gene23;Name=DR_C0024;Dbxref=GeneID:1799907;gbkey=Gene;locus_tag=DR_C0024
+NC_000959.1	RefSeq	CDS	25981	26553	.	-	0	ID=cds22;Name=NP_051694.1;Parent=gene23;Dbxref=Genbank:NP_051694.1,GeneID:1799907;gbkey=CDS;product=hypothetical protein;protein_id=NP_051694.1;transl_table=11
+NC_000959.1	RefSeq	gene	27115	27714	.	+	.	ID=gene24;Name=DR_C0025;Dbxref=GeneID:1799911;gbkey=Gene;locus_tag=DR_C0025
+NC_000959.1	RefSeq	CDS	27115	27714	.	+	0	ID=cds23;Name=NP_051695.1;Parent=gene24;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051695.1,GeneID:1799911;gbkey=CDS;product=ParA family chromosome partitioning ATPase;protein_id=NP_051695.1;transl_table=11
+NC_000959.1	RefSeq	gene	27711	28106	.	+	.	ID=gene25;Name=DR_C0026;Dbxref=GeneID:1799896;gbkey=Gene;locus_tag=DR_C0026
+NC_000959.1	RefSeq	CDS	27711	28106	.	+	0	ID=cds24;Name=NP_051696.1;Parent=gene25;Dbxref=Genbank:NP_051696.1,GeneID:1799896;gbkey=CDS;product=hypothetical protein;protein_id=NP_051696.1;transl_table=11
+NC_000959.1	RefSeq	gene	28132	28872	.	+	.	ID=gene26;Name=DR_C0027;Dbxref=GeneID:1799919;gbkey=Gene;locus_tag=DR_C0027
+NC_000959.1	RefSeq	CDS	28132	28872	.	+	0	ID=cds25;Name=NP_051697.1;Parent=gene26;Dbxref=Genbank:NP_051697.1,GeneID:1799919;gbkey=CDS;product=hypothetical protein;protein_id=NP_051697.1;transl_table=11
+NC_000959.1	RefSeq	gene	28929	29930	.	-	.	ID=gene27;Name=DR_C0028;Dbxref=GeneID:1799890;gbkey=Gene;locus_tag=DR_C0028
+NC_000959.1	RefSeq	CDS	28929	29930	.	-	0	ID=cds26;Name=NP_051698.1;Parent=gene27;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051698.1,GeneID:1799890;gbkey=CDS;product=transposase%2C putative;protein_id=NP_051698.1;transl_table=11
+NC_000959.1	RefSeq	gene	30272	31138	.	+	.	ID=gene28;Name=DR_C0029;Dbxref=GeneID:1799922;gbkey=Gene;locus_tag=DR_C0029
+NC_000959.1	RefSeq	CDS	30272	31138	.	+	0	ID=cds27;Name=NP_051699.1;Parent=gene28;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051699.1,GeneID:1799922;gbkey=CDS;product=transposase%2C putative;protein_id=NP_051699.1;transl_table=11
+NC_000959.1	RefSeq	gene	31946	33244	.	+	.	ID=gene29;Name=DR_C0030;Dbxref=GeneID:1799913;gbkey=Gene;locus_tag=DR_C0030
+NC_000959.1	RefSeq	CDS	31946	33244	.	+	0	ID=cds28;Name=NP_051700.1;Parent=gene29;Dbxref=Genbank:NP_051700.1,GeneID:1799913;gbkey=CDS;product=hypothetical protein;protein_id=NP_051700.1;transl_table=11
+NC_000959.1	RefSeq	gene	33740	33997	.	-	.	ID=gene30;Name=DR_C0032;Dbxref=GeneID:1799918;gbkey=Gene;locus_tag=DR_C0032
+NC_000959.1	RefSeq	CDS	33740	33997	.	-	0	ID=cds29;Name=NP_277102.1;Parent=gene30;Dbxref=Genbank:NP_277102.1,GeneID:1799918;gbkey=CDS;product=putative transposase;protein_id=NP_277102.1;transl_table=11
+NC_000959.1	RefSeq	region	35253	36163	.	+	.	ID=id2;Dbxref=ISFinder:ISDra5;gbkey=mobile_element
+NC_000959.1	RefSeq	gene	35342	36154	.	+	.	ID=gene31;Name=DR_C0033;Dbxref=GeneID:1799892;gbkey=Gene;locus_tag=DR_C0033
+NC_000959.1	RefSeq	CDS	35342	36154	.	+	0	ID=cds30;Name=NP_051701.1;Parent=gene31;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051701.1,GeneID:1799892;gbkey=CDS;product=transposase%2C putative;protein_id=NP_051701.1;transl_table=11
+NC_000959.1	RefSeq	gene	36234	37388	.	+	.	ID=gene32;Name=DR_C0034;Dbxref=GeneID:1799886;gbkey=Gene;locus_tag=DR_C0034
+NC_000959.1	RefSeq	CDS	36234	37388	.	+	0	ID=cds31;Name=NP_051702.1;Parent=gene32;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051702.1,GeneID:1799886;gbkey=CDS;product=coenzyme PQQ synthesis protein%2C putative;protein_id=NP_051702.1;transl_table=11
+NC_000959.1	RefSeq	gene	37385	37726	.	+	.	ID=gene33;Name=DR_C0035;Dbxref=GeneID:1799908;gbkey=Gene;locus_tag=DR_C0035
+NC_000959.1	RefSeq	CDS	37385	37726	.	+	0	ID=cds32;Name=NP_051703.1;Parent=gene33;Dbxref=Genbank:NP_051703.1,GeneID:1799908;gbkey=CDS;product=hypothetical protein;protein_id=NP_051703.1;transl_table=11
+NC_000959.1	RefSeq	gene	37723	39261	.	+	.	ID=gene34;Name=DR_C0036;Dbxref=GeneID:1799887;gbkey=Gene;locus_tag=DR_C0036
+NC_000959.1	RefSeq	CDS	37723	39261	.	+	0	ID=cds33;Name=NP_051704.1;Parent=gene34;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051704.1,GeneID:1799887;gbkey=CDS;product=oxidative cyclase%2C putative;protein_id=NP_051704.1;transl_table=11
+NC_000959.1	RefSeq	gene	39258	41369	.	+	.	ID=gene35;Name=DR_C0037;Dbxref=GeneID:1799888;gbkey=Gene;locus_tag=DR_C0037
+NC_000959.1	RefSeq	CDS	39258	41369	.	+	0	ID=cds34;Name=NP_051705.1;Parent=gene35;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051705.1,GeneID:1799888;gbkey=CDS;product=nodulation protein-related protein;protein_id=NP_051705.1;transl_table=11
+NC_000959.1	RefSeq	gene	41308	42591	.	+	.	ID=gene36;Name=DR_C0038;Dbxref=GeneID:1799909;gbkey=Gene;locus_tag=DR_C0038
+NC_000959.1	RefSeq	CDS	41308	42591	.	+	0	ID=cds35;Name=NP_051706.1;Parent=gene36;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051706.1,GeneID:1799909;gbkey=CDS;product=hypothetical protein;protein_id=NP_051706.1;transl_table=11
+NC_000959.1	RefSeq	gene	42686	43627	.	+	.	ID=gene37;Name=DR_C0039;Dbxref=GeneID:1799917;gbkey=Gene;locus_tag=DR_C0039
+NC_000959.1	RefSeq	CDS	42686	43627	.	+	0	ID=cds36;Name=NP_051707.1;Parent=gene37;Dbxref=Genbank:NP_051707.1,GeneID:1799917;gbkey=CDS;product=hypothetical protein;protein_id=NP_051707.1;transl_table=11
+NC_000959.1	RefSeq	gene	43638	44846	.	+	.	ID=gene38;Name=DR_C0040;Dbxref=GeneID:1799901;gbkey=Gene;locus_tag=DR_C0040
+NC_000959.1	RefSeq	CDS	43638	44846	.	+	0	ID=cds37;Name=NP_051708.1;Parent=gene38;Note=identified by sequence similarity%3B putative;Dbxref=Genbank:NP_051708.1,GeneID:1799901;gbkey=CDS;product=multidrug-efflux transporter%2C putative;protein_id=NP_051708.1;transl_table=11
+NC_000959.1	RefSeq	gene	44871	45575	.	+	.	ID=gene39;Name=DR_C0041;Dbxref=GeneID:1799915;gbkey=Gene;locus_tag=DR_C0041
+NC_000959.1	RefSeq	CDS	44871	45575	.	+	0	ID=cds38;Name=NP_051709.1;Parent=gene39;Dbxref=Genbank:NP_051709.1,GeneID:1799915;gbkey=CDS;product=hypothetical protein;protein_id=NP_051709.1;transl_table=11
+###

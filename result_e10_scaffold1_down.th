@@ -1,0 +1,125 @@
+scaffold1	Range 68	Bacillus.sp.T61GL000807	{K06413  spoVK  stage V sporulation protein K  --  Unclassified; Cellular Processes and Signaling; Sporulation}	{SP5K_BACSU Stage V sporulation protein K OS=Bacillus subtilis (strain 168) GN=spoVK PE=2 SV=3}	{IPR000641; CbxX/CfqX  IPR003593; AAA+ ATPase domain  IPR003959; ATPase, AAA-type, core  IPR014232; Sporulation stage V, protein K}	{GO:0000166; nucleotide binding; Molecular Function  GO:0005524; ATP binding; Molecular Function  GO:0017111; nucleoside-triphosphatase activity; Molecular Function}
+scaffold1	Range 110	inside	inside gene
+scaffold1	Range 117	Bacillus.sp.T61GL004033	{K07106  murQ  N-acetylmuramic acid 6-phosphate etherase  4.2.-.-  Metabolism; Carbohydrate Metabolism; Amino sugar and nucleotide sugar metabolism [PATH:ko00520]}	{MURQ_BACA2 N-acetylmuramic acid 6-phosphate etherase OS=Bacillus amyloliquefaciens (strain FZB42) GN=murQ PE=3 SV=1}	{IPR001347; Sugar isomerase (SIS)  IPR005486; Glucokinase regulatory, conserved site  IPR005488; N-acetylmuramic acid 6-phosphate etherase}	{GO:0005529; sugar binding; Molecular Function  GO:0005975; carbohydrate metabolic process; Biological Process  GO:0016835; carbon-oxygen lyase activity; Molecular Function  GO:0046348; amino sugar catabolic process; Biological Process}
+scaffold1	Range 97	Bacillus.sp.T61GL002721	{K14647  vpr  minor extracellular serine protease Vpr  3.4.21.-  Metabolism; Enzyme Families; Peptidases [BR:ko01002] Genetic Information Processing; Folding, Sorting and Degradation; Chaperones and folding catalysts [BR:ko03110]}	{SUBV_BACSU Minor extracellular protease vpr OS=Bacillus subtilis (strain 168) GN=vpr PE=1 SV=1}	{IPR000209; Peptidase S8/S53, subtilisin/kexin/sedolisin  IPR003137; Protease-associated domain, PA  IPR010259; Proteinase inhibitor I9  IPR015500; Peptidase S8, subtilisin-related  IPR022398; Peptidase S8, subtilisin, His-active site  IPR023827; Peptidase S8, subtilisin,  Asp-active site  IPR023828; Peptidase S8, subtilisin, Ser-active site}	{GO:0004252; serine-type endopeptidase activity; Molecular Function  GO:0006508; proteolysis; Biological Process  GO:0042802; identical protein binding; Molecular Function  GO:0043086; negative regulation of catalytic activity; Biological Process}
+scaffold1	Range 113	inside	inside gene
+scaffold1	Range 59	inside	inside gene
+scaffold1	Range 47	inside	inside gene
+scaffold1	Range 71	Bacillus.sp.T61GL000882	{NA}	{YODN_BACSU Uncharacterized protein yodN OS=Bacillus subtilis (strain 168) GN=yodN PE=4 SV=1}	{NA}	{NA}
+scaffold1	Range 100	inside	inside gene
+scaffold1	Range 121	Bacillus.sp.T61GL004268	{K06714  rocR  arginine utilization regulatory protein  --  Genetic Information Processing; Transcription; Transcription factors [BR:ko03000]}	{ROCR_BACSU Arginine utilization regulatory protein RocR OS=Bacillus subtilis (strain 168) GN=rocR PE=1 SV=2}	{IPR000014; PAS  IPR002078; RNA polymerase sigma factor 54, interaction  IPR002197; DNA binding HTH domain,  Fis-type  IPR003593; AAA+ ATPase domain  IPR009057; Homeodomain-like}	{GO:0000166; nucleotide binding; Molecular Function  GO:0003700; sequence-specific DNA binding transcription factor activity; Molecular Function  GO:0004871; signal transducer activity; Molecular Function  GO:0005515; protein binding; Molecular Function  GO:0005524; ATP binding; Molecular Function  GO:0005622; intracellular; Cellular Component  GO:0006355; regulation of transcription, DNA-dependent; Biological Process  GO:0007165; signal transduction; Biological Process  GO:0008134; transcription factor binding; Molecular Function  GO:0017111; nucleoside-triphosphatase activity; Molecular Function}
+scaffold1	Range 85	Bacillus.sp.T61GL002039	{NA}	{NA}	{NA}	{NA}
+scaffold1	Range 64	inside	inside gene
+scaffold1	Range 46	inside	inside gene
+scaffold1	Range 92	inside	inside gene
+scaffold1	Range 3	inside	inside gene
+scaffold1	Range 4	inside	inside gene
+scaffold1	Range 90	inside	inside gene
+scaffold1	Range 69	Bacillus.sp.T61GL000826	{K00615  E2.2.1.1, tktA, tktB  transketolase  2.2.1.1  Metabolism; Carbohydrate Metabolism; Pentose phosphate pathway [PATH:ko00030] Metabolism; Energy Metabolism; Carbon fixation in photosynthetic organisms [PATH:ko00710] Metabolism; Metabolism of Terpenoids and Polyketides; Biosynthesis of ansamycins [PATH:ko01051]}	{TKT_BACSU Transketolase OS=Bacillus subtilis (strain 168) GN=tkt PE=3 SV=2}	{IPR005474; Transketolase, N-terminal  IPR005475; Transketolase-like, pyrimidine-binding domain  IPR005476; Transketolase, C-terminal  IPR005478; Transketolase, bacterial-like  IPR009014; Transketolase, C-terminal/Pyruvate-ferredoxin oxidoreductase, domain II  IPR015941; Transketolase-like, C-terminal  IPR020826; Transketolase binding site}	{GO:0003824; catalytic activity; Molecular Function  GO:0004802; transketolase activity; Molecular Function  GO:0008152; metabolic process; Biological Process}
+scaffold1	Range 24	inside	inside gene
+scaffold1	Range 111	inside	inside gene
+scaffold1	Range 120	inside	inside gene
+scaffold1	Range 34	inside	inside gene
+scaffold1	Range 89	inside	inside gene
+scaffold1	Range 114	Bacillus.sp.T61GL003822	{NA}	{YKOW_BACSU Signaling protein ykoW OS=Bacillus subtilis (strain 168) GN=ykoW PE=4 SV=2}	{IPR000160; Diguanylate cyclase, predicted  IPR001054; Adenylyl cyclase class-3/4/guanylyl cyclase  IPR001633; Diguanylate phosphodiesterase, EAL domain  IPR003660; HAMP linker domain}	{GO:0004871; signal transducer activity; Molecular Function  GO:0007165; signal transduction; Biological Process  GO:0009190; cyclic nucleotide biosynthetic process; Biological Process  GO:0016021; integral to membrane; Cellular Component  GO:0016849; phosphorus-oxygen lyase activity; Molecular Function  GO:0035556; intracellular signal transduction; Biological Process}
+scaffold1	Range 95	inside	inside gene
+scaffold1	Range 75	Bacillus.sp.T61GL000998	{K11748  kefG  glutathione-regulated potassium-efflux system ancillary protein KefG  --  Unclassified; Cellular Processes and Signaling; Other ion-coupled transporters}	{GS14_BACSU General stress protein 14 OS=Bacillus subtilis (strain 168) GN=ywrO PE=1 SV=2}	{IPR003680; Flavodoxin-like fold}	{GO:0009055; electron carrier activity; Molecular Function  GO:0016491; oxidoreductase activity; Molecular Function  GO:0050662; coenzyme binding; Molecular Function}
+scaffold1	Range 43	Bacillus.sp.T61GL002094	{K03799  htpX  heat shock protein HtpX  3.4.24.-  Metabolism; Enzyme Families; Peptidases [BR:ko01002]}	{HTPX_BACP2 Protease HtpX homolog OS=Bacillus pumilus (strain SAFR-032) GN=htpX PE=3 SV=1}	{IPR001915; Peptidase M48}	{GO:0004222; metalloendopeptidase activity; Molecular Function  GO:0006508; proteolysis; Biological Process  GO:0016020; membrane; Cellular Component}
+scaffold1	Range 30	Bacillus.sp.T61GL001197	{NA}	{NA}	{NA}	{NA}
+scaffold1	Range 6	inside	inside gene
+scaffold1	Range 112	inside	inside gene
+scaffold1	Range 54	inside	inside gene
+scaffold1	Range 39	inside	inside gene
+scaffold1	Range 96	inside	inside gene
+scaffold1	Range 44	inside	inside gene
+scaffold1	Range 74	inside	inside gene
+scaffold1	Range 31	Bacillus.sp.T61GL001238	{K03100  lepB  signal peptidase I  3.4.21.89  Metabolism; Enzyme Families; Peptidases [BR:ko01002] Genetic Information Processing; Folding, Sorting and Degradation; Protein export [PATH:ko03060]}	{LEP_BACCL Signal peptidase I OS=Bacillus caldolyticus GN=lepB PE=3 SV=1}	{IPR000223; Peptidase S26A, signal peptidase I  IPR011056; Peptidase S24/S26A/S26B/S26C, beta-ribbon domain  IPR015927; Peptidase S24/S26A/S26B/S26C  IPR019756; Peptidase S26A, signal peptidase I, serine active site  IPR019757; Peptidase S26A, signal peptidase I, lysine active site  IPR019758; Peptidase S26A, signal peptidase I, conserved site  IPR019759; Peptidase S24/S26A/S26B}	{GO:0006508; proteolysis; Biological Process  GO:0008236; serine-type peptidase activity; Molecular Function  GO:0016020; membrane; Cellular Component  GO:0016021; integral to membrane; Cellular Component}
+scaffold1	Range 12	Bacillus.sp.T61GL001387	{NA}	{NA}	{NA}	{NA}
+scaffold1	Range 56	Bacillus.sp.T61GL004446	{K01286  E3.4.16.4  D-alanyl-D-alanine carboxypeptidase  3.4.16.4  Unclassified; Cellular Processes and Signaling; Membrane and intracellular structural molecules}	{YODJ_BACSU Putative carboxypeptidase yodJ OS=Bacillus subtilis (strain 168) GN=yodJ PE=3 SV=1}	{IPR003709; Peptidase M15B/M15C  IPR009045; Hedgehog signalling/DD-peptidase zinc-binding domain}	{GO:0006508; proteolysis; Biological Process  GO:0008233; peptidase activity; Molecular Function}
+scaffold1	Range 14	Bacillus.sp.T61GL002228	{NA}	{YISQ_BACSU Uncharacterized transporter yisQ OS=Bacillus subtilis (strain 168) GN=yisQ PE=3 SV=1}	{IPR002528; Multi antimicrobial extrusion protein}	{GO:0006855; drug transmembrane transport; Biological Process  GO:0015238; drug transmembrane transporter activity; Molecular Function  GO:0015297; antiporter activity; Molecular Function  GO:0016020; membrane; Cellular Component  GO:0055085; transmembrane transport; Biological Process}
+scaffold1	Range 81	inside	inside gene
+scaffold1	Range 27	inside	inside gene
+scaffold1	Range 33	Bacillus.sp.T61GL001348	{K00853  araB  L-ribulokinase  2.7.1.16  Metabolism; Carbohydrate Metabolism; Pentose and glucuronate interconversions [PATH:ko00040]}	{NA}	{IPR000577; Carbohydrate kinase, FGGY  IPR018484; Carbohydrate kinase, FGGY, N-terminal  IPR018485; Carbohydrate kinase, FGGY, C-terminal}	{GO:0005975; carbohydrate metabolic process; Biological Process  GO:0016773; phosphotransferase activity, alcohol group as acceptor; Molecular Function}
+scaffold1	Range 17	inside	inside gene
+scaffold1	Range 15	Bacillus.sp.T61GL002385	{K03293  TC.AAT  amino acid transporter, AAT family  --  Unclassified; Cellular Processes and Signaling; Other ion-coupled transporters}	{LYSP_ECOLI Lysine-specific permease OS=Escherichia coli (strain K12) GN=lysP PE=1 SV=5}	{IPR002293; Amino acid/polyamine transporter I  IPR004840; Amino acid permease, conserved site  IPR004841; Amino acid permease domain}	{GO:0003333; amino acid transmembrane transport; Biological Process  GO:0006810; transport; Biological Process  GO:0006865; amino acid transport; Biological Process  GO:0015171; amino acid transmembrane transporter activity; Molecular Function  GO:0016020; membrane; Cellular Component  GO:0016021; integral to membrane; Cellular Component  GO:0055085; transmembrane transport; Biological Process}
+scaffold1	Range 80	inside	inside gene
+scaffold1	Range 19	inside	inside gene
+scaffold1	Range 82	Bacillus.sp.T61GL001670	{NA}	{NA}	{IPR011094; Uncharacterised protein family, LppY/LpqO}	{NA}
+scaffold1	Range 86	Bacillus.sp.T61GL002207	{K03704  cspA  cold shock protein (beta-ribbon, CspA family)  --  Genetic Information Processing; Transcription; Transcription factors [BR:ko03000]}	{CSPA_LISMO Cold shock-like protein CspLA OS=Listeria monocytogenes serovar 1/2a (strain ATCC BAA-679 / EGD-e) GN=cspLA PE=3 SV=1}	{IPR002059; Cold-shock protein, DNA-binding  IPR011129; Cold shock protein  IPR012156; Cold shock, CspA  IPR012340; Nucleic acid-binding, OB-fold  IPR016027; Nucleic acid-binding, OB-fold-like  IPR019844; Cold-shock conserved site}	{GO:0003676; nucleic acid binding; Molecular Function  GO:0003677; DNA binding; Molecular Function  GO:0006355; regulation of transcription, DNA-dependent; Biological Process}
+scaffold1	Range 23	inside	inside gene
+scaffold1	Range 83	inside	inside gene
+scaffold1	Range 40	Bacillus.sp.T61GL001632	{NA}	{NA}	{IPR010899; Uncharacterised protein family UPF0344}	{NA}
+scaffold1	Range 77	inside	inside gene
+scaffold1	Range 99	inside	inside gene
+scaffold1	Range 62	inside	inside gene
+scaffold1	Range 119	Bacillus.sp.T61GL004055	{K02002  proX  glycine betaine/proline transport system substrate-binding protein  --  Environmental Information Processing; Membrane Transport; Transporters [BR:ko02000] Environmental Information Processing; Membrane Transport; ABC transporters [PATH:ko02010]}	{OPUAC_BACSU Glycine betaine-binding protein OpuAC OS=Bacillus subtilis (strain 168) GN=opuAC PE=1 SV=1}	{IPR007210; ABC-type glycine betaine transport system, substrate-binding domain}	{GO:0005215; transporter activity; Molecular Function  GO:0005488; binding; Molecular Function  GO:0006810; transport; Biological Process}
+scaffold1	Range 20	Bacillus.sp.T61GL004510	{NA}	{NA}	{IPR025437; YfhE-like protein}	{NA}
+scaffold1	Range 55	inside	inside gene
+scaffold1	Range 37	inside	inside gene
+scaffold1	Range 106	inside	inside gene
+scaffold1	Range 7	inside	inside gene
+scaffold1	Range 72	inside	inside gene
+scaffold1	Range 18	Bacillus.sp.T61GL003717	{NA}	{NA}	{IPR002725; Protein of unknown function DUF45}	{NA}
+scaffold1	Range 51	Bacillus.sp.T61GL003309	{NA}	{NA}	{IPR018385; C4-dicarboxylate anaerobic carrier-like}	{GO:0016021; integral to membrane; Cellular Component}
+scaffold1	Range 88	inside	inside gene
+scaffold1	Range 11	inside	inside gene
+scaffold1	Range 87	inside	inside gene
+scaffold1	Range 107	inside	inside gene
+scaffold1	Range 108	inside	inside gene
+scaffold1	Range 67	Bacillus.sp.T61GL000754	{K03763  DPO3A2, polC  DNA polymerase III subunit alpha, Gram-positive type  2.7.7.7  Metabolism; Nucleotide Metabolism; Purine metabolism [PATH:ko00230] Metabolism; Nucleotide Metabolism; Pyrimidine metabolism [PATH:ko00240] Genetic Information Processing; Replication and Repair; DNA replication [PATH:ko03030] Genetic Information Processing; Replication and Repair; DNA replication proteins [BR:ko03032] Genetic Information Processing; Replication and Repair; Mismatch repair [PATH:ko03430] Genetic Information Processing; Replication and Repair; Homologous recombination [PATH:ko03440] Genetic Information Processing; Replication and Repair; DNA repair and recombination proteins [BR:ko03400]}	{DPO3_BACSU DNA polymerase III polC-type OS=Bacillus subtilis (strain 168) GN=polC PE=1 SV=2}	{IPR003141; Polymerase/histidinol phosphatase, N-terminal  IPR004013; PHP, C-terminal  IPR004365; Nucleic acid binding, OB-fold, tRNA/helicase-type  IPR006054; DNA polymerase III, epsilon subunit  IPR006055; Exonuclease  IPR006308; DNA polymerase III, alpha subunit, Gram-positive type  IPR011708; Bacterial DNA polymerase III, alpha subunit  IPR012337; Ribonuclease H-like domain  IPR013520; Exonuclease, RNase T/DNA polymerase III  IPR016027; Nucleic acid-binding, OB-fold-like  IPR024754; DNA polymerase III polC-like, N-terminal domain}	{GO:0003676; nucleic acid binding; Molecular Function  GO:0003677; DNA binding; Molecular Function  GO:0003824; catalytic activity; Molecular Function  GO:0003887; DNA-directed DNA polymerase activity; Molecular Function  GO:0004527; exonuclease activity; Molecular Function  GO:0005622; intracellular; Cellular Component  GO:0005737; cytoplasm; Cellular Component  GO:0006260; DNA replication; Biological Process  GO:0008408; 3'-5' exonuclease activity; Molecular Function}
+scaffold1	Range 13	inside	inside gene
+scaffold1	Range 16	Bacillus.sp.T61GL002403	{NA}	{NA}	{NA}	{NA}
+scaffold1	Range 36	inside	inside gene
+scaffold1	Range 61	inside	inside gene
+scaffold1	Range 105	Bacillus.sp.T61GL003309	{NA}	{NA}	{IPR018385; C4-dicarboxylate anaerobic carrier-like}	{GO:0016021; integral to membrane; Cellular Component}
+scaffold1	Range 10	inside	inside gene
+scaffold1	Range 38	inside	inside gene
+scaffold1	Range 5	inside	inside gene
+scaffold1	Range 32	Bacillus.sp.T61GL001339	{NA}	{NA}	{IPR021729; Domain of unknown function DUF3298  IPR025303; Domain of unknown function DUF4163}	{NA}
+scaffold1	Range 35	inside	inside gene
+scaffold1	Range 22	Bacillus.sp.T61GL004645	{K04077  groEL, HSPD1  chaperonin GroEL  --  Genetic Information Processing; Folding, Sorting and Degradation; Chaperones and folding catalysts [BR:ko03110] Genetic Information Processing; Folding, Sorting and Degradation; RNA degradation [PATH:ko03018] Human Diseases; Metabolic Diseases; Type I diabetes mellitus [PATH:ko04940] Human Diseases; Infectious Diseases; Tuberculosis [PATH:ko05152]}	{CH60_GEOSW 60 kDa chaperonin OS=Geobacillus sp. (strain WCH70) GN=groL PE=3 SV=1}	{IPR001844; Chaperonin Cpn60  IPR002423; Chaperonin Cpn60/TCP-1  IPR018370; Chaperonin Cpn60, conserved site}	{GO:0005524; ATP binding; Molecular Function  GO:0005737; cytoplasm; Cellular Component  GO:0006457; protein folding; Biological Process  GO:0042026; protein refolding; Biological Process  GO:0044267; cellular protein metabolic process; Biological Process}
+scaffold1	Range 9	inside	inside gene
+scaffold1	Range 94	inside	inside gene
+scaffold1	Range 48	inside	inside gene
+scaffold1	Range 115	inside	inside gene
+scaffold1	Range 122	inside	inside gene
+scaffold1	Range 45	Bacillus.sp.T61GL002591	{K00019  E1.1.1.30, bdh  3-hydroxybutyrate dehydrogenase  1.1.1.30  Metabolism; Carbohydrate Metabolism; Butanoate metabolism [PATH:ko00650] Metabolism; Lipid Metabolism; Synthesis and degradation of ketone bodies [PATH:ko00072]}	{YXJF_BACSU Uncharacterized oxidoreductase yxjF OS=Bacillus subtilis (strain 168) GN=yxjF PE=3 SV=2}	{IPR002198; Short-chain dehydrogenase/reductase SDR  IPR002347; Glucose/ribitol dehydrogenase  IPR011294; 3-hydroxybutyrate dehydrogenase  IPR016040; NAD(P)-binding domain  IPR020904; Short-chain dehydrogenase/reductase, conserved site}	{GO:0000166; nucleotide binding; Molecular Function  GO:0003858; 3-hydroxybutyrate dehydrogenase activity; Molecular Function  GO:0008152; metabolic process; Biological Process  GO:0016491; oxidoreductase activity; Molecular Function  GO:0055114; oxidation-reduction process; Biological Process}
+scaffold1	Range 58	inside	inside gene
+scaffold1	Range 65	Bacillus.sp.T61GL000697	{NA}	{YLQD_BACSU Uncharacterized protein ylqD OS=Bacillus subtilis (strain 168) GN=ylqD PE=4 SV=1}	{IPR021297; Protein of unknown function DUF2869}	{NA}
+scaffold1	Range 70	Bacillus.sp.T61GL000872	{K00837  E2.6.1.-  --  --  Unclassified; Metabolism; Amino acid metabolism}	{YODT_BACSU Uncharacterized aminotransferase YodT OS=Bacillus subtilis (strain 168) GN=yodT PE=3 SV=1}	{IPR005814; Aminotransferase class-III  IPR015421; Pyridoxal phosphate-dependent transferase, major region, subdomain 1  IPR015422; Pyridoxal phosphate-dependent transferase, major region, subdomain 2  IPR015424; Pyridoxal phosphate-dependent transferase, major domain}	{GO:0003824; catalytic activity; Molecular Function  GO:0008483; transaminase activity; Molecular Function  GO:0030170; pyridoxal phosphate binding; Molecular Function}
+scaffold1	Range 49	Bacillus.sp.T61GL002991	{NA}	{NA}	{IPR001387; Helix-turn-helix type 3  IPR010982; Lambda repressor-like, DNA-binding  IPR011990; Tetratricopeptide-like helical  IPR013026; Tetratricopeptide repeat-containing domain  IPR019734; Tetratricopeptide repeat}	{GO:0003677; DNA binding; Molecular Function  GO:0005488; binding; Molecular Function  GO:0005515; protein binding; Molecular Function  GO:0043565; sequence-specific DNA binding; Molecular Function}
+scaffold1	Range 125	inside	inside gene
+scaffold1	Range 28	Bacillus.sp.T61GL000941	{NA}	{NA}	{IPR001123; Lysine-type exporter protein (LYSE/YGGA)}	{GO:0006865; amino acid transport; Biological Process  GO:0016020; membrane; Cellular Component}
+scaffold1	Range 53	inside	inside gene
+scaffold1	Range 26	inside	inside gene
+scaffold1	Range 123	inside	inside gene
+scaffold1	Range 101	inside	inside gene
+scaffold1	Range 50	inside	inside gene
+scaffold1	Range 60	Bacillus.sp.T61GL004607	{NA}	{NA}	{IPR003740; Protein of unknown function DUF161  IPR019264; Domain of unknown function DUF2179}	{NA}
+scaffold1	Range 52	Bacillus.sp.T61GL003481	{K11619  liaI  lia operon protein LiaI  --  Environmental Information Processing; Signal Transduction; Two-component system [PATH:ko02020]}	{NA}	{NA}	{NA}
+scaffold1	Range 66	inside	inside gene
+scaffold1	Range 42	inside	inside gene
+scaffold1	Range 29	Bacillus.sp.T61GL001018	{NA}	{NA}	{IPR011990; Tetratricopeptide-like helical  IPR013026; Tetratricopeptide repeat-containing domain}	{GO:0005488; binding; Molecular Function  GO:0005515; protein binding; Molecular Function}
+scaffold1	Range 21	Bacillus.sp.T61GL004579	{NA}	{NA}	{IPR000326; Phosphatidic acid phosphatase type 2/haloperoxidase  IPR016118; Phosphatidic acid phosphatase/chloroperoxidase, N-terminal}	{GO:0003824; catalytic activity; Molecular Function  GO:0016020; membrane; Cellular Component}
+scaffold1	Range 91	inside	inside gene
+scaffold1	Range 118	Bacillus.sp.T61GL004041	{K02016  ABC.FEV.S  iron complex transport system substrate-binding protein  --  Environmental Information Processing; Membrane Transport; Transporters [BR:ko02000] Environmental Information Processing; Membrane Transport; ABC transporters [PATH:ko02010]}	{YHFQ_BACSU Putative ABC transporter substrate-binding lipoprotein yhfQ OS=Bacillus subtilis (strain 168) GN=yhfQ PE=1 SV=1}	{IPR002491; ABC transporter, periplasmic binding protein}	{GO:0005488; binding; Molecular Function}
+scaffold1	Range 79	inside	inside gene
+scaffold1	Range 8	inside	inside gene
+scaffold1	Range 1	inside	inside gene
+scaffold1	Range 102	Bacillus.sp.T61GL003256	{NA}	{NA}	{NA}	{NA}
+scaffold1	Range 25	Bacillus.sp.T61GL000229	{K01873  VARS, valS  valyl-tRNA synthetase  6.1.1.9  Metabolism; Amino Acid Metabolism; Valine, leucine and isoleucine biosynthesis [PATH:ko00290] Metabolism; Amino Acid Metabolism; Amino acid related enzymes [BR:ko01007] Genetic Information Processing; Translation; Aminoacyl-tRNA biosynthesis [PATH:ko00970]}	{SYV_BACLD Valine--tRNA ligase OS=Bacillus licheniformis (strain DSM 13 / ATCC 14580) GN=valS PE=3 SV=1}	{IPR001412; Aminoacyl-tRNA synthetase, class I, conserved site  IPR002300; Aminoacyl-tRNA synthetase, class Ia  IPR002303; Valyl-tRNA synthetase  IPR009008; Valyl/Leucyl/Isoleucyl-tRNA synthetase, class Ia, editing domain  IPR009080; Aminoacyl-tRNA synthetase, class 1a, anticodon-binding  IPR010978; tRNA-binding arm  IPR011321; Valyl-tRNA synthetase, class Ia, C-terminal  IPR013155; Valyl/Leucyl/Isoleucyl-tRNA synthetase, class I, anticodon-binding  IPR014729; Rossmann-like alpha/beta/alpha sandwich fold  IPR019499; Valyl-tRNA synthetase, class Ia, tRNA-binding arm}	{GO:0000166; nucleotide binding; Molecular Function  GO:0004812; aminoacyl-tRNA ligase activity; Molecular Function  GO:0004832; valine-tRNA ligase activity; Molecular Function  GO:0005524; ATP binding; Molecular Function  GO:0005737; cytoplasm; Cellular Component  GO:0006418; tRNA aminoacylation for protein translation; Biological Process  GO:0006438; valyl-tRNA aminoacylation; Biological Process}
+scaffold1	Range 84	inside	inside gene
+scaffold1	Range 93	inside	inside gene
+scaffold1	Range 116	inside	inside gene
+scaffold1	Range 103	inside	inside gene
+scaffold1	Range 41	Bacillus.sp.T61GL001813	{NA}	{NA}	{NA}	{NA}
+scaffold1	Range 104	inside	inside gene
+scaffold1	Range 109	inside	inside gene
+scaffold1	Range 98	inside	inside gene
+scaffold1	Range 57	Bacillus.sp.T61GL004462	{K02443  glpP  glycerol uptake operon antiterminator  --  Genetic Information Processing; Transcription; Transcription factors [BR:ko03000]}	{NA}	{IPR006699; Glycerol-3-phosphate responsive antiterminator}	{GO:0006355; regulation of transcription, DNA-dependent; Biological Process  GO:0009607; response to biotic stimulus; Biological Process}
+scaffold1	Range 76	inside	inside gene
+scaffold1	Range 78	Bacillus.sp.T61GL001220	{NA}	{YVAF_BACSU Uncharacterized HTH-type transcriptional regulator YvaF OS=Bacillus subtilis (strain 168) GN=yvaF PE=4 SV=1}	{IPR001647; DNA-binding HTH domain, TetR-type  IPR009057; Homeodomain-like  IPR011075; Tetracycline transcriptional regulator, TetR-related, C-terminal  IPR015893; Tetracycline transcriptional regulator, TetR-like, C-terminal}	{GO:0003677; DNA binding; Molecular Function  GO:0005515; protein binding; Molecular Function}
+scaffold1	Range 63	inside	inside gene
+scaffold1	Range 124	inside	inside gene
+scaffold1	Range 73	inside	inside gene
+scaffold1	Range 2	Bacillus.sp.T61GL000387	{K04564  E1.15.1.1A, sodA, sodB, SOD2  superoxide dismutase, Fe-Mn family  1.15.1.1  Cellular Processes; Transport and Catabolism; Peroxisome [PATH:ko04146] Human Diseases; Neurodegenerative Diseases; Huntington's disease [PATH:ko05016]}	{SODM_GEOSE Superoxide dismutase [Mn] OS=Geobacillus stearothermophilus GN=sodA PE=1 SV=2}	{IPR001189; Manganese/iron superoxide dismutase  IPR019831; Manganese/iron superoxide dismutase, N-terminal  IPR019832; Manganese/iron superoxide dismutase, C-terminal  IPR019833; Manganese/iron superoxide dismutase, binding site}	{GO:0004784; superoxide dismutase activity; Molecular Function  GO:0006801; superoxide metabolic process; Biological Process  GO:0046872; metal ion binding; Molecular Function  GO:0055114; oxidation-reduction process; Biological Process}
